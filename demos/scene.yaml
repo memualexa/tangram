@@ -359,6 +359,7 @@ layers:
                 draw:
                     text:
                         text_source: global.language_text_source
+                        repeat_group: road-labels
                         priority: 2
                         font:
                             fill: '#666'
@@ -371,6 +372,7 @@ layers:
                 draw:
                     text:
                         text_source: global.language_text_source
+                        repeat_group: road-labels
                         priority: 3
                         font:
                             fill: '#666'
@@ -383,6 +385,7 @@ layers:
                 draw:
                     text:
                         text_source: global.language_text_source
+                        repeat_group: road-labels
                         priority: 5
                         font:
                             fill: '#666'
